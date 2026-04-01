@@ -19,3 +19,4 @@ The second part heavily depends on first one, as we need to process and cleanse 
 | :---- | :---- | :---- | :---- | :---- |
 | Week of 22/03/2026 | Lucy | ML | 12h | Data cleaning and outlier analysis (trip duration) |
 | Week of 05/04/2026 | Lucy | ML | 4h | Repository organization, split ML part into self-contained steps |
+| Week of 05/04/2026 | Saba | WebForAI | 6h | Finished Gradio UI, implemented all Python files, ensured full app functionality |
