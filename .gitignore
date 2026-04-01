@@ -1,0 +1,4 @@
+**/**/__pycache__
+**/**/*.csv
+!MachineLearning/Part1/data/weather.csv
+!MachineLearning/Part1/data/stations.csv
